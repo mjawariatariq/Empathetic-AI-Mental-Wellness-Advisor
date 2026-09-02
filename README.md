@@ -1,4 +1,4 @@
-# Mental Peace Advisor
+# Empathetic-AI-Mental-Wellness-Advisor
 
 A multilingual AI-powered **Mental Peace Advisor chatbot** built with **Streamlit and Google Gemini**. The application provides a conversational interface where users can share their feelings, receive empathetic responses, and interact with the chatbot through both **text and voice input**.
 
