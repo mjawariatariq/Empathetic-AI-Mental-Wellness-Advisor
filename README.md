@@ -433,7 +433,7 @@ For serious or urgent situations, users should seek help from a qualified profes
 
 ## Author
 
-# Jawaria Tariq
+Jawaria Tariq
 
 ## License
 
